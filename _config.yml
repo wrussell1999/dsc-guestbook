@@ -1,0 +1,13 @@
+include:
+  - images
+
+exclude:
+  - .github
+  - vendor
+
+collections:
+  - guestbook
+
+workshop:
+  name: Get Started with Git & GitHub
+  github: https://github.com/sdaniel55/ruhacking-guestbook
