@@ -19,7 +19,7 @@ Let's fork this repository to get started:
 ### Making a change
 
 The repository will now exist as a seperate repository under your GitHub profile. From your fork go to the `/_guestbook` folder and click on **Create new file**. 
-Name this file **yourname.yaml**. Then paste the bellow template into your file and replace it with your details. You can delete any fields you dont want to fill except *name* and *image*
+Name this file **yourname.yaml**. Then paste the below template into your file and replace it with your details. You can delete any fields you dont want to fill except *name* and *image*
 
 ```
 ---
