@@ -9,8 +9,8 @@ By the end of this workshop you will have forked a repo, created a commit, made 
 
 ### Forks
 
-GitHub let's you adapt any piblic repository using forks. Forks copy the entire repository to your profile so that you have ownership and 
-controll. This let's you add features to a project without needing to request direct access to a repository.
+GitHub let's you adapt any public repository using forks. Forks copy the entire repository to your profile so that you have ownership and 
+control. This let's you add features to a project without needing to request direct access to a repository.
 
 Let's fork this repository to get started:
 
@@ -59,7 +59,7 @@ your fork you can click on *compare across forks*. Then create the pull reqeust
 
 ### Congrats :tada:
 
-You've sucessfully creted a pull request! You're changes will now have to be reviewed. If you're filled out your details correctly your pull request will be approved and you will show up on the 
+You've sucessfully created a pull request! Your changes will now have to be reviewed. If you're filled out your details correctly your pull request will be approved and you will show up on the 
 guestbook.
 
 
